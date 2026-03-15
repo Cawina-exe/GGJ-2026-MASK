@@ -1,3 +1,8 @@
+![Unity](https://img.shields.io/badge/Engine-Unity-black?logo=unity)
+![C#](https://img.shields.io/badge/Language-C%23-purple)
+![Platform](https://img.shields.io/badge/Platform-PC-blue)
+![Status](https://img.shields.io/badge/Status-Released-green)
+
 # The Puppeteer
 
 **Unity • C# • 2D Platformer**
